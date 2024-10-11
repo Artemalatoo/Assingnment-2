@@ -1,0 +1,12 @@
++-------------------------+
+|        Student           |
++-------------------------+
+| - name: String           |
+| - id: int                |
+| - major: String          |
+| - gpa: int               |
++-------------------------+
+| + Student(n: String, i: int, m: String, g: int) |
+| + displayInfo(): void                           |
+| + main(args: String[]): void                    |
++-------------------------+
